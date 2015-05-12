@@ -1,0 +1,33 @@
+{
+  "name": "cloudcmd-ua",
+  "version": "2.7.1",
+  "private": true,
+  "changelog": false,
+  "release": false,
+  "branch": "gh-pages",
+  "description": "ua",
+  "scripts": {
+    "yaspeller": "yaspeller index.md",
+    "test": "npm run yaspeller",
+    "wisdom": "bin/release.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcmd/ru.git"
+  },
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudcmd/ru/issues"
+  },
+  "homepage": "https://github.com/cloudcmd/ru",
+  "devDependencies": {
+    "files-io": "~1.2.5",
+    "minor": "~1.2.3",
+    "place": "~1.1.2",
+    "rendy": "~1.0.6",
+    "shortdate": "~1.0.1",
+    "yaspeller": "~1.0.2"
+  },
+  "dependencies": {}
+}
