@@ -42,16 +42,16 @@ Cloud Commander v2.7.1
 Výhody
 ---------------
 
-- Open Source (**MIT License**).
-- Has 2 classic panels.
-- Optional **authorization**.
-- Client works in web browser.
-- Server works on **Windows**, **Linux** and **Mac OS**.
-- Could be used local or remotely.
-- Adapting to screen size.
-- **2 built-in editors** with support of **syntax highlighting**: [Dword][DWORD] and [Edward][EDWARD].
-- **Console** with support of default OS command line.
-- Written in **JavaScript/Node.js**.
+- Open Source (**MIT licence**).
+- Má 2 klasické panely.
+- Volitelné **autorizace**.
+- Klient pracuje ve webovém prohlížeči.
+- Server běží pod **Windows**, **Linux** a **Mac OS**.
+- Může být použit lokální nebo vzdálené.
+- Přizpůsobení se velikost obrazovky.
+- **2 vestavěné editory** s podporou **zvýrazněním syntaxe**: [Dword] [DWORD] a [Edward] [EDWARD].
+- **Console** s podporou pro standardní příkazového řádku OS.
+- Je napsaný v **JavaScript/Node.js**.
 
 Instalovat
 ---------------
